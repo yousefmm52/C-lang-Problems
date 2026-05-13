@@ -1,5 +1,6 @@
 # C-lang-Problems
-Bunch of C Language Problems That i Solved.
+Bunch of Solved C Language Problems.
+Thanks To All The Contributers Who Helped Me Getting This Repository Done.
 
 ### Simple Stuff(printf & Scanf):
 - [Problem 1](problem_1.c).
